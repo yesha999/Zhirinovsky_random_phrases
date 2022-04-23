@@ -1,0 +1,97 @@
+[
+  {
+    "word": "хватит",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\hvatit.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "терпеть",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\terpet.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "ха ха ха ха",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\smeh.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "на джипе",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\na_djipe.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "учи испанский язык",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\uchi.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "добро пожаловать",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\dobro.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "плевать в лицо",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\plevat.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "это страшно",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\strashno.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "из-за этого все проблемы",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\vse_problemi.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "ненавижу",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\nenavizhu.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "в каждую задницу",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\zadnicu.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "нахуй",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\nahui.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "пропадите пропадом",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\propadite.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "убирайтесь вон",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\ubiraites.mp3",
+    "type": "verb"
+  },
+    {
+    "word": "бессовестные",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\bessovest.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "сумасшедший",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\sumashedshiy.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "пошел отсюда нахер",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\naher.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "кто ты такой вообще",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\kto_ti.mp3",
+    "type": "verb"
+  },
+  {
+    "word": "всех уничтожу",
+    "audio_path": "C:\\Skypro\\my_coursework2\\data\\music\\unichtozhu.mp3",
+    "type": "verb"
+  }
+]
